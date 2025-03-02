@@ -25,8 +25,6 @@ Tuy nhiên, một vấn đề quan trọng đặt ra là làm sao để xây d�
 -  **Hỗ trợ tìm kiếm, lọc sách hiệu quả**
 -  **Hệ thống gợi ý sách thông minh**
 
-Điều này đòi hỏi một giải pháp công nghệ hoàn chỉnh, dễ dàng quản lý và phát triển.
-
 ## 🎯 **Mục Tiêu Đề Tài**
 ### **1.3.1 Mục Tiêu Tổng Quát**
 Đề tài tập trung vào việc **xây dựng một hệ thống bán sách online (hard copy) cho cửa hàng**, nhằm giải quyết các vấn đề trong quản lý thông tin và nâng cao hiệu quả vận hành trong kinh doanh trực tuyến.
